@@ -1,0 +1,5 @@
+{
+  "name": "Medical Research Question Generator- setting example show Dr. Jeet.",
+  "description": "An AI-powered tool to help medical researchers translate their initial ideas into well-structured, raw research questions by defining a topic, role, and task.",
+  "requestFramePermissions": []
+}
